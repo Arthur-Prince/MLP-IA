@@ -160,7 +160,8 @@ public class Dados {
 		}
 
 		this.iteracoes = scan.nextInt();
-		this.taxaDeAprendizado = scan.nextDouble();
+		String temp = scan.next();
+		this.taxaDeAprendizado = Double.parseDouble(temp);
 	}
 
 	/*
@@ -176,6 +177,7 @@ public class Dados {
 			inRead = new InputStreamReader(fis);
 			buffRead = new BufferedReader(inRead);
 			line = buffRead.readLine();
+			line = line.replace("ï»¿", "");
 			line = line.replaceAll("﻿", "");
 			int x = 0;
 			while (x < this.numeroDeLinhas && line != null) {

@@ -1,5 +1,12 @@
-/home/arthur/eclipse-workspace/MLP-API/src/main/java/api/model/AtualizaDados.java
-/home/arthur/eclipse-workspace/MLP-API/src/main/java/api/controller/MLPController.java
-/home/arthur/eclipse-workspace/MLP-API/src/main/java/api/service/MLPService.java
-/home/arthur/eclipse-workspace/MLP-API/src/main/java/api/model/TestaAplicacao.java
+/home/arthur/eclipse-workspace/MLP-API/src/main/java/MLP/MLPAPI/api/controller/MLPController.java
+/home/arthur/eclipse-workspace/MLP-API/src/main/java/MLP/MLPAPI/api/model/AtualizaDados.java
+/home/arthur/eclipse-workspace/MLP-API/src/main/java/IA/AplicacaoExcepition.java
+/home/arthur/eclipse-workspace/MLP-API/src/main/java/IA/EntradaOuEscondida.java
+/home/arthur/eclipse-workspace/MLP-API/src/main/java/IA/NLinear.java
+/home/arthur/eclipse-workspace/MLP-API/src/main/java/IA/Dados.java
+/home/arthur/eclipse-workspace/MLP-API/src/main/java/IA/Protocolos.java
+/home/arthur/eclipse-workspace/MLP-API/src/main/java/IA/Camada.java
+/home/arthur/eclipse-workspace/MLP-API/src/main/java/IA/Funcao.java
+/home/arthur/eclipse-workspace/MLP-API/src/main/java/IA/Linear.java
 /home/arthur/eclipse-workspace/MLP-API/src/main/java/MLP/MLPAPI/MlpApiApplication.java
+/home/arthur/eclipse-workspace/MLP-API/src/main/java/IA/MLP.java

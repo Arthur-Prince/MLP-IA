@@ -1,0 +1,12 @@
+IA/Linear.class
+IA/Funcao.class
+IA/NLinear.class
+IA/Camada.class
+IA/AplicacaoExcepition.class
+IA/EntradaOuEscondida.class
+MLP/MLPAPI/api/controller/MLPController.class
+MLP/MLPAPI/MlpApiApplication.class
+IA/Protocolos.class
+IA/Dados.class
+MLP/MLPAPI/api/model/AtualizaDados.class
+IA/MLP.class
